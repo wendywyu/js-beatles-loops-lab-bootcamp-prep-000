@@ -17,9 +17,5 @@ return array
 }
 
 function iLoveTheBeatles () {
-  do {
-    return 'I love the Beatles!';
-    number++;
-  } while (i === 17)
-  return 'I love the Beatles!'
+
 }
